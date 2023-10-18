@@ -1,0 +1,35 @@
+{
+  "version": "v1.0.0",
+  "notes": "Note: AI办公助手正式发布啦！\n\nFeat:\n\n- AI翻译、公司系统",
+  "pub_date": "2023-10-18T13:58:01.243Z",
+  "platforms": {
+    "win64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRajQrVGVtSWpGNHBsWFpmSE94TjJWRXBnN2RkUGo3dnh0cGo5K3ZHTzRGQ05FYzhaemxNVkMyZ3FFMFBjcGlJTWZXc3FnYnlrR3c4Y0p5UHRNMDRHYjg0QXNpd055bkFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk3NjM3NDAxCWZpbGU6cm9ib3RfMS4wLjBfeDY0X3poLUNOLm1zaS56aXAKbTFydVFDd1ZoT1UyRjFwSUwvMWwwck9jWXBqNEF6a25zb0QvU3kxenVEdDVFZDJYc2tabXRScXFVQUJ2czR0UUJOZG1wcFhmS1Rvdlg5d1J6bHBIQnc9PQo=",
+      "url": "https://github.com/FelixQC/robot/releases/download/v1.0.0/robot_1.0.0_windows_x86_64.msi.zip"
+    },
+    "linux": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRajQrVGVtSWpGNGd2QTI1c0JUTDBUbXhLQkRKclVFT09GbnIzZXREeWVCOUtidFJTcC8zZG1ES1RrVTAxb0JJeGNSSzVORG04WUt6d2JmYXRRMXlwTDJvL3pwRCtMR3dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk3NjM3MTY2CWZpbGU6cm9ib3RfMS4wLjBfYW1kNjQuQXBwSW1hZ2UudGFyLmd6CkU3SHZuUnpsUzQ0NnM5a2RvTnkwS0pDYkpXYlk5Z0RxZFlpbnR1eFdIVGpqaUZzTURCUERHYVJHTGpJQm5EZ1gvaU9FclN0OXNrSmlkODQxQm5KZURnPT0K",
+      "url": "https://github.com/FelixQC/robot/releases/download/v1.0.0/robot_1.0.0_linux_x86_64.AppImage.tar.gz"
+    },
+    "darwin": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRajQrVGVtSWpGNHZpcXlRSGtFRU80UWhLOWlidnF5Y0RHWmRjamEyS01jWmxZaU1FUjc0S0V0OUZaSmNDUzFBZUVEVkVwVlNWem9SQ0VTNHRoZnJrM3ZKRE1YV0h0V1FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk3NjM3MTEzCWZpbGU6cm9ib3QuYXBwLnRhci5negppL2xjVkZuRHM5ejhwak1LVmw3cW9tdlhlMGpHeGhJd0llM3VLNWNsaHdFK0F4NVZoWm11RlRtajFUUUJxdG5LU1NaR1dCN2t0NzBHdGs5dE16Vm5Ddz09Cg==",
+      "url": "https://github.com/FelixQC/robot/releases/download/v1.0.0/robot_1.0.0_macos_x86_64.app.tar.gz"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRajQrVGVtSWpGNHNTZUMvSWFnV2xhUDFjWXdDcEMyUjVVTHRPUlFMSWthTUFRY1AwWDRSekw1bWUraGlqeFB2WGNGd1hzNHcvcC8wVTI5UjIzRmF3OG1EVmtBZGp5ZFE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk3NjM3MDkzCWZpbGU6cm9ib3QuYXBwLnRhci5negpDMVY0QTc4Y2Flb2YvdFppUzdZVzFreGJWQStjdDcwSk5VUDJBeWJSWkRMVDdPN0lneDk1czM4T1VsL0RMSVBlK0V3N3ltTFViRXNWdXAveFRTQVNCdz09Cg==",
+      "url": "https://github.com/FelixQC/robot/releases/download/v1.0.0/robot_1.0.0_macos_aarch64.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRajQrVGVtSWpGNHZpcXlRSGtFRU80UWhLOWlidnF5Y0RHWmRjamEyS01jWmxZaU1FUjc0S0V0OUZaSmNDUzFBZUVEVkVwVlNWem9SQ0VTNHRoZnJrM3ZKRE1YV0h0V1FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk3NjM3MTEzCWZpbGU6cm9ib3QuYXBwLnRhci5negppL2xjVkZuRHM5ejhwak1LVmw3cW9tdlhlMGpHeGhJd0llM3VLNWNsaHdFK0F4NVZoWm11RlRtajFUUUJxdG5LU1NaR1dCN2t0NzBHdGs5dE16Vm5Ddz09Cg==",
+      "url": "https://github.com/FelixQC/robot/releases/download/v1.0.0/robot_1.0.0_macos_x86_64.app.tar.gz"
+    },
+    "linux-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRajQrVGVtSWpGNGd2QTI1c0JUTDBUbXhLQkRKclVFT09GbnIzZXREeWVCOUtidFJTcC8zZG1ES1RrVTAxb0JJeGNSSzVORG04WUt6d2JmYXRRMXlwTDJvL3pwRCtMR3dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk3NjM3MTY2CWZpbGU6cm9ib3RfMS4wLjBfYW1kNjQuQXBwSW1hZ2UudGFyLmd6CkU3SHZuUnpsUzQ0NnM5a2RvTnkwS0pDYkpXYlk5Z0RxZFlpbnR1eFdIVGpqaUZzTURCUERHYVJHTGpJQm5EZ1gvaU9FclN0OXNrSmlkODQxQm5KZURnPT0K",
+      "url": "https://github.com/FelixQC/robot/releases/download/v1.0.0/robot_1.0.0_linux_x86_64.AppImage.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRajQrVGVtSWpGNHBsWFpmSE94TjJWRXBnN2RkUGo3dnh0cGo5K3ZHTzRGQ05FYzhaemxNVkMyZ3FFMFBjcGlJTWZXc3FnYnlrR3c4Y0p5UHRNMDRHYjg0QXNpd055bkFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk3NjM3NDAxCWZpbGU6cm9ib3RfMS4wLjBfeDY0X3poLUNOLm1zaS56aXAKbTFydVFDd1ZoT1UyRjFwSUwvMWwwck9jWXBqNEF6a25zb0QvU3kxenVEdDVFZDJYc2tabXRScXFVQUJ2czR0UUJOZG1wcFhmS1Rvdlg5d1J6bHBIQnc9PQo=",
+      "url": "https://github.com/FelixQC/robot/releases/download/v1.0.0/robot_1.0.0_windows_x86_64.msi.zip"
+    }
+  }
+}
