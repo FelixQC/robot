@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  .light {
+    color: #111827;
+    --global-bg: theme("colors.white");
+    --global-bg-invert: #111827;
+    --badges-purple-border: rgba(126, 34, 206, 0.1);
+  }
+  .dark {
+    color: white;
+    --global-bg: #111827;
+    --global-bg-invert: theme("colors.white");
+    --badges-purple-border: rgba(192, 132, 250, 0.3);
+  }
+}
+
+@layer utilities {
+  @variants responsive {
+    /* Hide scrollbar for Chrome, Safari and Opera */
+    .no-scrollbar::-webkit-scrollbar {
+        display: none;
+    }
+
+    /* Hide scrollbar for IE, Edge and Firefox */
+    .no-scrollbar {
+        -ms-overflow-style: none;  /* IE and Edge */
+        scrollbar-width: none;  /* Firefox */
+    }
+  }
+}
+
+
