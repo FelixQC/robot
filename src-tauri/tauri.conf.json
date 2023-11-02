@@ -7,7 +7,7 @@
     "withGlobalTauri": true
   },
   "package": {
-    "productName": "robot",
+    "productName": "ChisonNavi",
     "version": "1.0.0"
   },
   "tauri": {
@@ -39,8 +39,8 @@
         "removeFile": true,
         "removeDir": true,
         "scope": [
-          "$APPCONFIG/robot_config/**",
-          "$HOME/robot_config/**",
+          "$APPCONFIG/chisonNavi_config/**",
+          "$HOME/chisonNavi_config/**",
           "$DOWNLOAD/**"
         ]
       },
@@ -84,7 +84,7 @@
         "icons/icon.icns",
         "icons/icon.ico"
       ],
-      "identifier": "com.chison.robot",
+      "identifier": "com.chison.chisonNavi",
       "macOS": {
         "entitlements": null,
         "exceptionDomain": "",
@@ -93,8 +93,8 @@
         "signingIdentity": null
       },
       "resources": [],
-      "longDescription": "robot助手提升您的生产力，助您事半功倍！",
-      "shortDescription": "robot",
+      "longDescription": "ChisonNavi助手提升您的生产力，助您事半功倍！",
+      "shortDescription": "ChisonNavi",
       "targets": "all",
       "windows": {
         "certificateThumbprint": null,
@@ -133,7 +133,7 @@
         "width": 960,
         "minWidth": 360,
         "resizable": true,
-        "title": "robot",
+        "title": "ChisonNavi",
         "titleBarStyle": "Overlay",
         "hiddenTitle": true,
         "center": true,

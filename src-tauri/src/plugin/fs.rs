@@ -41,7 +41,7 @@ pub fn create_file<P: AsRef<Path>>(filename: P) -> Result<()> {
 pub async fn read_extra_url() -> String {
     let app = APP.get().unwrap();
     let path: PathBuf = path::app_config_dir(&app.config()).expect("文件打开失败");
-    let file_path = path.as_path().join("robot_config/router.json");
+    let file_path = path.as_path().join("chisonNavi_config/router.json");
     info!("router.json path: {}", file_path.display());
 
     match std::fs::read_to_string(&file_path) {
