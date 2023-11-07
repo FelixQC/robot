@@ -26,6 +26,8 @@ pub fn create_external_windows(label: String, title: String, external_url: Strin
     )
     .min_inner_size(360.00, 600.00)
     .title(title)
+    .decorations(true) // Ensure window decorations are accounted for in sizing
+    .visible(true) // Ensure the window is immediately visible
     .menu(Menu::new())
     .build()
     .expect("failed to build window");

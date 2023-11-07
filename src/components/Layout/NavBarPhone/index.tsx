@@ -20,7 +20,7 @@ const NavbarPhone = () => {
         px={10}
       >
         {routerJson.navbar.map((item) => (
-          <Flex
+          item.link!=='/office'&&<Flex
             position={'relative'}
             key={item.link}
             cursor={'pointer'}
