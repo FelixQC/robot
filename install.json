@@ -1,35 +1,35 @@
 {
-  "version": "v1.0.0",
-  "notes": "Note: AI办公助手正式发布啦！\n\nFeat:\n\n- AI翻译、公司系统",
-  "pub_date": "2023-11-02T13:11:02.159Z",
+  "version": "v1.0.1",
+  "notes": "Note: 功能添加\n\nFeat:\n\n- 更新window窗口样式以及添加faq功能",
+  "pub_date": "2023-11-07T14:44:22.175Z",
   "platforms": {
     "win64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRajQrVGVtSWpGNHFpUFcwWFFHVmZ6bW9BeS9DeVBDWjNMSkRpQ0pxc2NZR3dYRzZiaDVjY2xSZnFLTituTVBtdTdkU1cvS0JYSVdweEtMNHBtaDVaVlVFejVBVlBGaFFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk4OTMwNjA3CWZpbGU6Q2hpc29uTmF2aV8xLjAuMF94NjRfemgtQ04ubXNpLnppcApDYjJ5WFFSb00zUGhsaHFjR1Y0MWlRNE1jdU1NTE9Ma1Y1c3RXd2l4c2FZaUYvRTRyTEVqMjIvZWN0VUloYi9LcWVRYUttOFh1YXRLOXlmMkkxVzJCdz09Cg==",
-      "url": "https://github.com/FelixQC/robot/releases/download/v1.0.0/ChisonNavi_1.0.0_windows_x86_64.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRajQrVGVtSWpGNHBEWlVlTHBLL251aC85ZVVCcGlOd3pMSGxYVHF0R1hCMkhhbE4wNUJVVSt0M1d5VDQzTFZNeUY5TllYWEVvTW9kS0orVnZldk9SYWpRbzlua28wdEFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk5MzY4MjAwCWZpbGU6Q2hpc29uTmF2aV8xLjAuMV94NjRfemgtQ04ubXNpLnppcApwK2FGRmJIeDhEUy8rNFBBUXJyMzkzRXJxVSswY0FEdDhsWlc0ZW1JVFdGKzF5SFRYMXg1ZTM0UC95VVU1SEpRRVlYYk1hNFczdjhvWmpubkgzRHNBQT09Cg==",
+      "url": "https://github.com/FelixQC/robot/releases/download/v1.0.1/ChisonNavi_1.0.1_windows_x86_64.msi.zip"
     },
     "linux": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRajQrVGVtSWpGNGdybTlNdUxKWE1IeHNXU1FYV1RYMXVqY25ta3RkRjFwclJja1gyTGdkNm1HaGJ0MldRVjB6cVcveHltaUtPZjc5aGJWb2dER3VQMG1CZkNISGV1YWc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk4OTMwMjA1CWZpbGU6Y2hpc29uLW5hdmlfMS4wLjBfYW1kNjQuQXBwSW1hZ2UudGFyLmd6CndVWStoQk1ZQUR3VlhGQkhlUVVXcXVzdTlSYkNYOEVIUVErNUZ1dzJCUm45K0hvK3pXRkQvRXNKcFBoLzVzNE1DTUZ2MEd4Rm1LK2FhREhyMVVIM0J3PT0K",
-      "url": "https://github.com/FelixQC/robot/releases/download/v1.0.0/ChisonNavi_1.0.0_linux_x86_64.AppImage.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRajQrVGVtSWpGNGcrRmdjRklqb0UyZGVmdWFSVUFzMjd0MUJROWtENTJBZjg2d21WSGM5R2o5RmxISG9zeXRabnlpWEo3RjErQXRjM3JFTDBKS042dHpoQ1pwR0d2WUE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk5MzY3Nzk5CWZpbGU6Y2hpc29uLW5hdmlfMS4wLjFfYW1kNjQuQXBwSW1hZ2UudGFyLmd6CkZKSXpJd3dHUVIrUkozaEVYcE9kdkRmSm56Ulp1QVRYak5nNGVZM3JuREhwNFhHZUZlZmlNVWV5ZmhHS2U0Vm9IeXhOK0JEOXE3dkNVa0lyWm4zMkJBPT0K",
+      "url": "https://github.com/FelixQC/robot/releases/download/v1.0.1/ChisonNavi_1.0.1_linux_x86_64.AppImage.tar.gz"
     },
     "darwin": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRajQrVGVtSWpGNGxIRUtZRFV4dFZGU3dtbFY5eU00K2QrT2xTd3l5TmVwUUpnRlBXd0VubjFOWlNpeGwvRXVJNmdGR0ZWazY1QTBhTnl3RVgrVzRoMjJTZXJCUmllQ2dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk4OTMwMjk4CWZpbGU6Q2hpc29uTmF2aS5hcHAudGFyLmd6CkZRV3p4VkEwUkQzd1RwcU5ZYVNZc3llYlRDMExGazM1YWVJMFRVbi85L2U1ZU9leTRreXkvWm5CeERGaWFmejh6U3NHRlI2L3JwUWtOczF6eVoxMEF3PT0K",
-      "url": "https://github.com/FelixQC/robot/releases/download/v1.0.0/ChisonNavi_1.0.0_macos_x86_64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRajQrVGVtSWpGNG9aTndiN1Fqa05ZcFlVd2JVaVdjMmpuTERabTJsdldlUmpIU0U1VWl1TGxUbWxuNGdsa1NKMzd6RFk1Ym50VXp0czN2SUtKWG1acGNkajEvTkNjVFF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk5MzY3ODk5CWZpbGU6Q2hpc29uTmF2aS5hcHAudGFyLmd6CnQ2bHpuQVNDUHFaVnBBdHRrUTVJRDJreUwrblBwT3ZobkJKY2xZK2ZpNHRtMjVWODFmYUptMk10dE5ZYkFMWUd1Y21VTUJRd3EzMndEN2xXbUNRR0J3PT0K",
+      "url": "https://github.com/FelixQC/robot/releases/download/v1.0.1/ChisonNavi_1.0.1_macos_x86_64.app.tar.gz"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRajQrVGVtSWpGNG1EbVRhbFlLRFVQREFzSEs2ZjRoVDc1aDFlRUdFbENub3NGcllhcXRKTzhRcjUyUGx2YStINC9VZXBtZWtpMjI2ckFDYVpsUUVwSFF4TW5uaXNjS2dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk4OTMwMzAyCWZpbGU6Q2hpc29uTmF2aS5hcHAudGFyLmd6ClVDY2JndTJSeDZYSmtnZ0dDbWNLYXdYakltS0I1RktaM3pMRUdiNHloQUxqb1dXSndhcDF2OTBHVkNIWnFDekhYMG5ZcTlIYUlOdWNidkgzUmdrWUN3PT0K",
-      "url": "https://github.com/FelixQC/robot/releases/download/v1.0.0/ChisonNavi_1.0.0_macos_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRajQrVGVtSWpGNGxHUGVTK3hLR25UalFGT091SU51RE1kVVdrQkFZUEZxZ2NuOXFVYlAwUWNBSFhEVHNsdjU3MTJVL1RiS0owSzVWMkR4dmZmb0drU0EzMXNzdUtWWkFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk5MzY3ODg1CWZpbGU6Q2hpc29uTmF2aS5hcHAudGFyLmd6ClFxekt5Q05wSy9SQW9NVE5Rb1JzOU1tN3U3a21NOFF2V3I2ZkpKU2NuZmdzV0dWVWtzMHgxR0dtRHRGdWRldEcvUEJyNjZUQTdoanVYRitWZm1zWERnPT0K",
+      "url": "https://github.com/FelixQC/robot/releases/download/v1.0.1/ChisonNavi_1.0.1_macos_aarch64.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRajQrVGVtSWpGNGxIRUtZRFV4dFZGU3dtbFY5eU00K2QrT2xTd3l5TmVwUUpnRlBXd0VubjFOWlNpeGwvRXVJNmdGR0ZWazY1QTBhTnl3RVgrVzRoMjJTZXJCUmllQ2dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk4OTMwMjk4CWZpbGU6Q2hpc29uTmF2aS5hcHAudGFyLmd6CkZRV3p4VkEwUkQzd1RwcU5ZYVNZc3llYlRDMExGazM1YWVJMFRVbi85L2U1ZU9leTRreXkvWm5CeERGaWFmejh6U3NHRlI2L3JwUWtOczF6eVoxMEF3PT0K",
-      "url": "https://github.com/FelixQC/robot/releases/download/v1.0.0/ChisonNavi_1.0.0_macos_x86_64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRajQrVGVtSWpGNG9aTndiN1Fqa05ZcFlVd2JVaVdjMmpuTERabTJsdldlUmpIU0U1VWl1TGxUbWxuNGdsa1NKMzd6RFk1Ym50VXp0czN2SUtKWG1acGNkajEvTkNjVFF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk5MzY3ODk5CWZpbGU6Q2hpc29uTmF2aS5hcHAudGFyLmd6CnQ2bHpuQVNDUHFaVnBBdHRrUTVJRDJreUwrblBwT3ZobkJKY2xZK2ZpNHRtMjVWODFmYUptMk10dE5ZYkFMWUd1Y21VTUJRd3EzMndEN2xXbUNRR0J3PT0K",
+      "url": "https://github.com/FelixQC/robot/releases/download/v1.0.1/ChisonNavi_1.0.1_macos_x86_64.app.tar.gz"
     },
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRajQrVGVtSWpGNGdybTlNdUxKWE1IeHNXU1FYV1RYMXVqY25ta3RkRjFwclJja1gyTGdkNm1HaGJ0MldRVjB6cVcveHltaUtPZjc5aGJWb2dER3VQMG1CZkNISGV1YWc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk4OTMwMjA1CWZpbGU6Y2hpc29uLW5hdmlfMS4wLjBfYW1kNjQuQXBwSW1hZ2UudGFyLmd6CndVWStoQk1ZQUR3VlhGQkhlUVVXcXVzdTlSYkNYOEVIUVErNUZ1dzJCUm45K0hvK3pXRkQvRXNKcFBoLzVzNE1DTUZ2MEd4Rm1LK2FhREhyMVVIM0J3PT0K",
-      "url": "https://github.com/FelixQC/robot/releases/download/v1.0.0/ChisonNavi_1.0.0_linux_x86_64.AppImage.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRajQrVGVtSWpGNGcrRmdjRklqb0UyZGVmdWFSVUFzMjd0MUJROWtENTJBZjg2d21WSGM5R2o5RmxISG9zeXRabnlpWEo3RjErQXRjM3JFTDBKS042dHpoQ1pwR0d2WUE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk5MzY3Nzk5CWZpbGU6Y2hpc29uLW5hdmlfMS4wLjFfYW1kNjQuQXBwSW1hZ2UudGFyLmd6CkZKSXpJd3dHUVIrUkozaEVYcE9kdkRmSm56Ulp1QVRYak5nNGVZM3JuREhwNFhHZUZlZmlNVWV5ZmhHS2U0Vm9IeXhOK0JEOXE3dkNVa0lyWm4zMkJBPT0K",
+      "url": "https://github.com/FelixQC/robot/releases/download/v1.0.1/ChisonNavi_1.0.1_linux_x86_64.AppImage.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRajQrVGVtSWpGNHFpUFcwWFFHVmZ6bW9BeS9DeVBDWjNMSkRpQ0pxc2NZR3dYRzZiaDVjY2xSZnFLTituTVBtdTdkU1cvS0JYSVdweEtMNHBtaDVaVlVFejVBVlBGaFFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk4OTMwNjA3CWZpbGU6Q2hpc29uTmF2aV8xLjAuMF94NjRfemgtQ04ubXNpLnppcApDYjJ5WFFSb00zUGhsaHFjR1Y0MWlRNE1jdU1NTE9Ma1Y1c3RXd2l4c2FZaUYvRTRyTEVqMjIvZWN0VUloYi9LcWVRYUttOFh1YXRLOXlmMkkxVzJCdz09Cg==",
-      "url": "https://github.com/FelixQC/robot/releases/download/v1.0.0/ChisonNavi_1.0.0_windows_x86_64.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRajQrVGVtSWpGNHBEWlVlTHBLL251aC85ZVVCcGlOd3pMSGxYVHF0R1hCMkhhbE4wNUJVVSt0M1d5VDQzTFZNeUY5TllYWEVvTW9kS0orVnZldk9SYWpRbzlua28wdEFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk5MzY4MjAwCWZpbGU6Q2hpc29uTmF2aV8xLjAuMV94NjRfemgtQ04ubXNpLnppcApwK2FGRmJIeDhEUy8rNFBBUXJyMzkzRXJxVSswY0FEdDhsWlc0ZW1JVFdGKzF5SFRYMXg1ZTM0UC95VVU1SEpRRVlYYk1hNFczdjhvWmpubkgzRHNBQT09Cg==",
+      "url": "https://github.com/FelixQC/robot/releases/download/v1.0.1/ChisonNavi_1.0.1_windows_x86_64.msi.zip"
     }
   }
 }
