@@ -4,11 +4,11 @@
             "label": "祥生AI",
             "icon": "chat",
             "activeIcon": "chatFill",
-            "link": "/chat",
+            "link": "/robot/chat",
             "activeLink": [
                 "/",
-                "/chat",
-                "/chat/outlink"
+                "/robot/chat",
+                "/robot/chat/outlink"
             ],
             "ItemList": [
                 {
@@ -45,7 +45,7 @@
                     "target": "",
                     "avatarName": "产品助手",
                     "desc": "祥生产品知识",
-                    "url": "http://192.168.89.207:8848/faq-frontend?id=1"
+                    "url": "https://dev.chison.com.cn:5443/faq-frontend?id=1"
                 },
                 {
                     "id": 5,
@@ -54,7 +54,7 @@
                     "target": "",
                     "avatarName": "销售助手",
                     "desc": "祥生销售小帮手",
-                    "url": "http://192.168.89.207:8848/faq-frontend?id=2"
+                    "url": "https://dev.chison.com.cn:5443/faq-frontend?id=2"
                 }
             ]
         },
@@ -62,10 +62,10 @@
             "label": "办公系统",
             "icon": "dbLight",
             "activeIcon": "dbFill",
-            "link": "/office",
+            "link": "/robot/office",
             "activeLink": [
-                "/office",
-                "/office/outlink"
+                "/robot/office",
+                "/robot/office/outlink"
             ],
             "ItemList": [
                 {
@@ -128,10 +128,10 @@
             "label": "AI工具箱",
             "icon": "appStoreLight",
             "activeIcon": "appStoreFill",
-            "link": "/toolbox",
+            "link": "/robot/toolbox",
             "activeLink": [
-                "/toolbox",
-                "/toolbox/outlink"
+                "/robot/toolbox",
+                "/robot/toolbox/outlink"
             ],
             "ItemList": [
                 {
@@ -158,9 +158,9 @@
             "label": "系统设置",
             "icon": "appLight",
             "activeIcon": "appFill",
-            "link": "/settings",
+            "link": "/robot/settings",
             "activeLink": [
-                "/settings"
+                "/robot/settings"
             ]
         }
     ]

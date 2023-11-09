@@ -4,7 +4,7 @@ use std::path::{Path, PathBuf};
 use log::{error, info};
 use tauri::{api::path, command};
 
-pub const APP_CONFIG: &str = "http://192.168.89.207:8848/desktop/router.json";
+pub const APP_CONFIG: &str = "https://dev.chison.com.cn:5443/desktop/router.json";
 
 use crate::{utils::request, APP};
 macro_rules! pub_struct {
