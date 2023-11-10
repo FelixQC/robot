@@ -7,22 +7,22 @@ import { getVersion } from "@tauri-apps/api/app";
 
 
 const SettingsPage = () => {
-  const [isUpdate,setIsupdate] = useState<boolean>(false)
-  const [version,setVersion] = useState<string>()
-  useEffect(()=>{
+  const [isUpdate, setIsupdate] = useState<boolean>(false)
+  const [version, setVersion] = useState<string>()
+  useEffect(() => {
     // 是否有新版本
     checkUpdate().then((update) => {
-      console.warn('update---',update)
+      console.warn('update---', update)
       setIsupdate(update.shouldUpdate)
-    },(e) => {
-      console.warn('error') 
+    }, (e) => {
+      console.warn('error')
     });
     /* 版本信息 */
-    getVersion().then(version=>{
-      console.warn('version--',version)
+    getVersion().then(version => {
+      console.warn('version--', version)
       setVersion(version)
     });
-  },[])
+  }, [])
 
   return (
     <Main>
@@ -33,15 +33,15 @@ const SettingsPage = () => {
             <Box>
               <Heading className='mb-4' size='lg' textTransform='uppercase'>关于</Heading>
               <Box className='mb-4 flex'>
-                当前版本：{version} 
-                {isUpdate&&<Box w={'5px'} h={'5px'} bg={'myRead.600'} borderRadius={'20px'} />}
+                当前版本：v{version} (Alpha)
+                {isUpdate && <Box w={'5px'} h={'5px'} bg={'myRead.600'} borderRadius={'20px'} />}
               </Box>
             </Box>
           </Stack>
         </CardBody>
       </Card>
     </Main>
-    
+
   )
 };
 

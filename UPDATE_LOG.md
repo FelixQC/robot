@@ -1,10 +1,15 @@
 # UPDATE LOG
 
+## v1.0.0
+
+Fix: 修改版本信息内容
+
+- 版本信息添加Alpha
 
 
 ## v1.0.0
 
-Note: AI办公助手正式发布啦！
+Note: ChisonNavi正式发布啦！
 
 Feat:
 
